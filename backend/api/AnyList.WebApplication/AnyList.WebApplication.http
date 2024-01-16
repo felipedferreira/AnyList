@@ -1,0 +1,6 @@
+@AnyList.WebApplication_HostAddress = http://localhost:5267
+
+GET {{AnyList.WebApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
